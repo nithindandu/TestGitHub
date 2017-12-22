@@ -1,1 +1,1 @@
-This is to test local commit hooks for jira
+This is to test local commit hooks for JIRA
